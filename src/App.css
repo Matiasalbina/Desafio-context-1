@@ -1,0 +1,25 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card-img-top {
+  object-fit: cover;
+  height: 100px;
+}
+
+.custom-navbar {
+  background-color: red;
+}
+
+.custom-navbar .nav-link {
+  color: white;
+}
+
+.custom-navbar .nav-link:hover {
+  color: #ddd;
+}
+
+
